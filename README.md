@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Java, DSA with Java, Power BI, SQL, Excel, and CSV.
 - 💞️ I’m looking to collaborate on AI and data science projects.
 - 📫 How to reach me - sunerataj1013@gmail.com
-- 😄 Pronoudata She/her
+- 😄 Pronouns :She/her
 - ⚡ Fun fact: I'm a Data Science student who loves analyzing data by day and exploring fashion and beauty trends! 
 
 
